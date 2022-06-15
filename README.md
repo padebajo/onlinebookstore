@@ -2,7 +2,7 @@
 ### Online Book Store
 #Changed code Version 19
 <span style="color:blue">**This Website is built for following purpose:-**</span>
-- For Selling books online
+- For Selling book online
 - Maintaining books selling history
 - Adding and managing books
 - User Friendly
